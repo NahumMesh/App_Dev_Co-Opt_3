@@ -1,4 +1,2 @@
-# Inscryption_Deck_Builder
-Deck builder app based on the indie game Inscryption where users can sign in, create decks and view all the cards Inscryption has to offer.
-
-The app is made using Kotlin, Jetpack Compose and leverages Firebase.
+# App_Dev_Co-Opt_3
+Navigation demo with display cards for Co-Opt 3.
